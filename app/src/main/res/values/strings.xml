@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="profile">Profile</string>
+    <string name="place_name">Chicago</string>
+    <string name="follow">Follow</string>
+    <string name="friends">Friends</string>
+    <string name="photos">Photos</string>
+    <string name="see_all">SEE ALL</string>
+    <string name="friend_name">Ronny</string>
+</resources>
